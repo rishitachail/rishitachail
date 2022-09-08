@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishitachail
 - 👀 I’m interested in java and web development 
 - 🌱 I’m currently learning SQL and web development 
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to open-source contributions and internships
 - 📫 How to reach me via e-mail rishitachail125@gmail.com
 
 <!---
